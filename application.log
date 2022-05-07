@@ -125,3 +125,15 @@
 2022-05-07 12:31:59,835  INFO [main] 1_Maven_Trail_V1:31 - Step 06: Birth Month is Entered
 2022-05-07 12:32:00,305  INFO [main] 1_Maven_Trail_V1:35 - Step 07: Birth Year is Entered
 2022-05-07 12:32:00,308  INFO [main] 1_Maven_Trail_V1:36 - Step end: Browser Closed
+2022-05-07 14:10:41,507  INFO [main] 1_Maven_Trail_V1:25 - Step 01: Browser Opened
+2022-05-07 14:10:49,691  INFO [main] 1_Maven_Trail_V1:28 - Step 02: Browser closed
+2022-05-07 14:10:49,948  INFO [main] 1_Maven_Trail_V1:16 - Step 03: Click on Create New User Button
+2022-05-07 14:10:52,274  INFO [main] 1_Maven_Trail_V1:23 - Step 04: First Name Entered
+2022-05-07 14:10:52,892  INFO [main] 1_Maven_Trail_V1:27 - Step 05: Birth Date is Entered
+2022-05-07 14:10:53,209  INFO [main] 1_Maven_Trail_V1:31 - Step 06: Birth Month is Entered
+2022-05-07 14:10:53,672  INFO [main] 1_Maven_Trail_V1:35 - Step 07: Birth Year is Entered
+2022-05-07 14:10:53,675  INFO [main] 1_Maven_Trail_V1:36 - Step end: Browser Closed
+2022-05-07 14:20:17,184  INFO [main] 1_Maven_Trail_V1:25 - Step 01: Browser Opened
+2022-05-07 14:20:21,766  INFO [main] 1_Maven_Trail_V1:28 - Step 02: Browser closed
+2022-05-07 14:20:22,056  INFO [main] 1_Maven_Trail_V1:16 - Step 03: Click on Create New User Button
+2022-05-07 14:20:24,264  INFO [main] 1_Maven_Trail_V1:36 - Step end: Browser Closed
