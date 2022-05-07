@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.pack.Test.Classes.TC01_Page_1_Elements_validation">
+      <class name="com.pack.Test.Classes.TC02_NaukriTask">
         <methods>
-          <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="New_User"/>
+          <include name="naukriT"/>
         </methods>
-      </class> <!-- com.pack.Test.Classes.TC01_Page_1_Elements_validation -->
+      </class> <!-- com.pack.Test.Classes.TC02_NaukriTask -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
