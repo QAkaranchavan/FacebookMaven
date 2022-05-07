@@ -19,7 +19,7 @@ public class BaseClass
 		log = Logger.getLogger("1_Maven_Trail_V1");
 		PropertyConfigurator.configure("log4j.properties");
 		
-		System.setProperty("webdriver.chrome.driver", "E:\\Velocity Class\\Practice Java\\2_Maven_Trail_V1\\driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\Softwares\\Selenium\\chromedriver_win32\\v ChromeDriver 101.0.4951.41\\chromedriver_win32\\chromedriver.exe");
 		driver = new ChromeDriver();
 		System.out.println("Step 01: Browser Opened");
 		log.info("Step 01: Browser Opened");
