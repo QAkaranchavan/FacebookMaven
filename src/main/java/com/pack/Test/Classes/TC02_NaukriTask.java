@@ -17,7 +17,7 @@ public class TC02_NaukriTask
 {
 	
 	public static Logger log;
-	@Test(timeOut = 50000)
+	@Test(timeOut = 100000)
 	public void naukriT() throws InterruptedException
 	{
 		log = Logger.getLogger("1_Maven_Trail_V1");

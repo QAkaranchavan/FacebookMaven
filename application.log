@@ -267,3 +267,47 @@
 2022-05-08 00:03:43,356  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:90 - Test Step 13:catch textbox cleared
 2022-05-08 00:03:47,954  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:96 - Test Step 14: data reEntered
 2022-05-08 00:03:48,205  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:107 - Test Step 14: catch Save button
+2022-05-09 09:38:24,339  INFO [main] 1_Maven_Trail_V1:25 - Step 01: Browser Opened
+2022-05-09 09:38:32,997  INFO [main] 1_Maven_Trail_V1:28 - Step 02: Browser closed
+2022-05-09 09:38:35,051  INFO [main] 1_Maven_Trail_V1:16 - Step 03: Click on Create New User Button
+2022-05-09 09:38:38,062  INFO [main] 1_Maven_Trail_V1:23 - Step 04: First Name Entered
+2022-05-09 09:38:38,723  INFO [main] 1_Maven_Trail_V1:27 - Step 05: Birth Date is Entered
+2022-05-09 09:38:38,861  INFO [main] 1_Maven_Trail_V1:31 - Step 06: Birth Month is Entered
+2022-05-09 09:38:39,327  INFO [main] 1_Maven_Trail_V1:35 - Step 07: Birth Year is Entered
+2022-05-09 09:38:39,334  INFO [main] 1_Maven_Trail_V1:36 - Step end: Browser Closed
+2022-05-09 09:39:14,565  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:32 - Test Step 1: URL Opened
+2022-05-09 09:39:14,669  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:35 - Test Step 2: Login Button finded and Clicked
+2022-05-09 09:39:15,724  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:38 - Test Step 3: Username textbox finded and Entered
+2022-05-09 09:39:16,333  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:41 - Test Step 4: Password textbox finded and Entered
+2022-05-09 09:39:16,443  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:44 - Test Step 5: Login Button finded and Clicked
+2022-05-09 09:40:46,847  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:32 - Test Step 1: URL Opened
+2022-05-09 09:40:47,009  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:35 - Test Step 2: Login Button finded and Clicked
+2022-05-09 09:40:47,845  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:38 - Test Step 3: Username textbox finded and Entered
+2022-05-09 09:40:47,991  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:41 - Test Step 4: Password textbox finded and Entered
+2022-05-09 09:40:48,070  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:44 - Test Step 5: Login Button finded and Clicked
+2022-05-09 09:41:15,223  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:49 - Test Step 6: Take mause to My Naukri
+2022-05-09 09:41:15,428  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:52 - Test Step 7: Edit profile Button finded and Clicked
+2022-05-09 09:41:17,593  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:57 - Test Step 8: Edit Button finded and Clicked
+2022-05-09 09:41:18,057  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:62 - Test Step 9: textbox cleared
+2022-05-09 09:44:29,027  INFO [main] 1_Maven_Trail_V1:25 - Step 01: Browser Opened
+2022-05-09 09:44:33,181  INFO [main] 1_Maven_Trail_V1:28 - Step 02: Browser closed
+2022-05-09 09:44:33,491  INFO [main] 1_Maven_Trail_V1:16 - Step 03: Click on Create New User Button
+2022-05-09 09:44:35,696  INFO [main] 1_Maven_Trail_V1:23 - Step 04: First Name Entered
+2022-05-09 09:44:36,243  INFO [main] 1_Maven_Trail_V1:27 - Step 05: Birth Date is Entered
+2022-05-09 09:44:36,384  INFO [main] 1_Maven_Trail_V1:31 - Step 06: Birth Month is Entered
+2022-05-09 09:44:36,961  INFO [main] 1_Maven_Trail_V1:35 - Step 07: Birth Year is Entered
+2022-05-09 09:44:36,964  INFO [main] 1_Maven_Trail_V1:36 - Step end: Browser Closed
+2022-05-09 09:44:47,381  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:32 - Test Step 1: URL Opened
+2022-05-09 09:44:47,633  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:35 - Test Step 2: Login Button finded and Clicked
+2022-05-09 09:44:50,645  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:38 - Test Step 3: Username textbox finded and Entered
+2022-05-09 09:44:50,759  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:41 - Test Step 4: Password textbox finded and Entered
+2022-05-09 09:44:50,851  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:44 - Test Step 5: Login Button finded and Clicked
+2022-05-09 09:45:16,871  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:49 - Test Step 6: Take mause to My Naukri
+2022-05-09 09:45:17,058  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:52 - Test Step 7: Edit profile Button finded and Clicked
+2022-05-09 09:45:19,186  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:57 - Test Step 8: Edit Button finded and Clicked
+2022-05-09 09:45:19,249  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:62 - Test Step 9: textbox cleared
+2022-05-09 09:45:23,907  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:68 - Test Step 10: Data Entered
+2022-05-09 09:45:28,122  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:74 - Test Step 11: Clicked on save button
+2022-05-09 09:45:30,593  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:90 - Test Step 13:catch textbox cleared
+2022-05-09 09:45:35,467  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:96 - Test Step 14: data reEntered
+2022-05-09 09:45:35,606  INFO [TestNG-method=naukriT-1] 1_Maven_Trail_V1:107 - Test Step 14: catch Save button
